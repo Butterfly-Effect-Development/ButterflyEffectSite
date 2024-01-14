@@ -1,0 +1,37 @@
+{
+  "header": {
+    "icon": {
+      "color": "orange",
+      "style": "float"
+    },
+    "name": "2nd Bothwell",
+    "color": "default",
+    "nav": [
+      {
+        "href": "",
+        "label": "Home"
+      },
+      {
+        "href": "about",
+        "label": "About"
+      },
+      {
+        "href": "posts",
+        "label": "Blog"
+      }
+    ]
+  },
+  "footer": {
+    "color": "default",
+    "social": {
+      "facebook": "/",
+      "twitter": "/",
+      "instagram": "/"
+    }
+  },
+  "theme": {
+    "color": "purple",
+    "font": "sans",
+    "darkMode": "system"
+  }
+}

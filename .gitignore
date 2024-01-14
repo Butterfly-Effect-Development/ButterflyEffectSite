@@ -1,0 +1,50 @@
+*.log
+**/node_modules/
+**/build/
+**/dist/
+**/.rpt2_cache
+**/.rts2_cache
+**/.rts2_cache_cjs
+**/.rts2_cache_esm
+**/.rts2_cache_umd
+**/.rts2_cache_system
+*.swp
+packages/cli/forestry/.env
+*.tgz
+.DS_Store
+**/docs/
+.idea/
+**/.cache/
+**/package-lock.json
+tsconfig.tsbuildinfo
+
+.npmrc
+
+.yarn/*
+!.yarn/cache
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
+
+topologicalDeps.txt
+
+# Ignore any .next folder
+**/.next/**
+cypress/videos/all/edit.spec.js.mp4
+cypress/videos/kitchen-sink/sidebar.spec.js.mp4
+
+# Turborepo
+.turbo
+build/**
+dist/**
+.next/**
+
+
+# Ignore all .env files
+**/**/.env
+# All .env files
+**/.env
+
+out/
