@@ -1,7 +1,7 @@
 ---
-title: 2nd Bothwell Scout Group
+title: Butterfly Effect Development
 blocks:
-  - headline: Welcome to the home of 2nd Bothwell
+  - headline: Welcome to the home of Butterfly Effect Development
     text: >
       This project is set up to show you the basics of working with Tina. You're
       looking at the landing page, which pulls content from
@@ -18,8 +18,8 @@ blocks:
         icon: false
         link: /posts
     image:
-      src: /uploads/logo-generator-linear-blackwhite-png.png
-      alt: Photo of the Scouts logo along with the Group Name
+      src: ''
+      alt: Butterfly Effect Logo
     color: primary
     _template: hero
   - items:
@@ -52,4 +52,5 @@ blocks:
     color: primary
     _template: testimonial
 ---
+
 
