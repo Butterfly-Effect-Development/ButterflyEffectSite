@@ -47,10 +47,11 @@ blocks:
           color, font, or icon set.
     color: tint
     _template: features
-  - quote: The real way to get happiness is by giving out happiness to other people
-    author: Baden Powell
+  - quote: 'Something '
+    author: John Doe
     color: primary
     _template: testimonial
 ---
+
 
 
